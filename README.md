@@ -6,8 +6,6 @@ This web app: **insert description**
 
 Time spent: **X** hours spent in total
 
-note to self: START 1:30PM
-
 ## Required Features
 
 The following **required** functionality is completed:
