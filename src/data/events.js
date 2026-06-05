@@ -15,7 +15,7 @@ const events = [
     category: "TCG",
     date: "Twice a year",
     venue: "B1 Mall, Dubai",
-    image: "https://i.ibb.co/HyWR0DF/MEFCC.avif",
+    image: "https://i.ibb.co/BKBn6199/Screenshot-2026-06-06-at-01-26-43-Instagram.png",
     link: "https://sandboxswapmeet.me/",
   },
   {
@@ -25,7 +25,7 @@ const events = [
     date: "Annually",
     venue: "Dubai Outlet Mall, Dubai",
     image: "https://knect365.imgix.net/uploads/FNDM-Website-Images-9deb2c89ee2b9ceb191a5b08068b1cca.png?auto=format&fit=max&w=412&dpr=5",
-    link: "#",
+    link: "https://www.mefcc.com/fndm-dubai/",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const events = [
     date: "Annually",
     venue: "The B1 Mall",
     image: "https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/cover-image-The-B1.jpg",
-    link: "#",
+    link: "https://sandboxswapmeet.me/",
   },
   {
     id: 5,
@@ -47,12 +47,12 @@ const events = [
   },
   {
     id: 6,
-    name: "J-Pex",
+    name: "JPEX",
     category: "Anime & Culture",
     date: "Annually",
     venue: "Dubai World Trade Centre, Dubai",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfm6R2snIVGQmRzw7v1tjDLTUwrh3dX2FkXQ&s",
-    link: "#",
+    link: "https://jpex.me/",
   },
   {
     id: 7,
@@ -61,7 +61,7 @@ const events = [
     date: "Twice a year",
     venue: "Times Square Mall, Dubai",
     image: "https://popconme.com/wp-content/uploads/2024/02/PopconMe-2024-18.webp",
-    link: "#",
+    link: "https://popconme.com/",
   },
   {
     id: 8,
@@ -70,16 +70,16 @@ const events = [
     date: "Twice a year",
     venue: "COMICAVE, Dubai Outlet Mall, Dubai",
     image: "https://www.arabnews.jp/en/wp-content/uploads/sites/2/2025/04/20250405_190301-1024x577.jpg",
-    link: "#",
+    link: "https://store.comicave.com/",
   },
   {
     id: 9,
     name: "Gambit Game Nights",
     category: "Tabletop & Community Meetup",
     date: "Weekly · Fridays",
-    venue: "Hookah Café, Dubai",
+    venue: "Selected Café, Dubai",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoAvc15izxM2s1w3J8VJJ064Chjs-bjdITA&s",
-    link: "#",
+    link: "https://www.instagram.com/gambitdxb/",
   },
   {
     id: 10,
@@ -88,7 +88,16 @@ const events = [
     date: "Annually · May the 4th",
     venue: "Dubai Outlet Mall, Dubai",
     image: "https://www.timeoutdubai.com/cloud/timeoutdubai/2022/05/06/FCBW-Cover.jpg",
-    link: "#",
+    link: "https://store.comicave.com/",
+  },
+  {
+    id: 11,
+    name: "StickerCon",
+    category: "Pop Culture",
+    date: "Twice a year",
+    venue: "B1 Mall, Dubai",
+    image: "https://i.ibb.co/3YT701b9/image.png",
+    link: "https://sandboxswapmeet.me/",
   }
 ];
 

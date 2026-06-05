@@ -1,4 +1,6 @@
-const Event = ({ image, category, name, date, venue }) => {
+const Event = ({ image, category, name, date, venue, link }) => {
+  const hasRealLink = link && link !== "#";
+
   return (
     <article className="event-card">
       <img className="event-image" src={image} alt={name} />
@@ -9,6 +11,15 @@ const Event = ({ image, category, name, date, venue }) => {
 
         <p className="event-date">📅 {date}</p>
         <p className="event-venue">📍 {venue}</p>
+
+        <a
+          className="event-link"
+          href={link}
+          target={hasRealLink ? "_blank" : undefined}
+          rel={hasRealLink ? "noopener noreferrer" : undefined}
+        >
+          More info →
+        </a>
       </div>
     </article>
   );
