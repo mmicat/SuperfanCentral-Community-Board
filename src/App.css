@@ -1,11 +1,12 @@
 #root {
-  max-width: 1280px;
+  width: 100%; /* fill available width */
+  max-width: none; /* no cap, the grid can keep adding columns as the viewport grows */
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   font-family: Inter, Avenir, 'Segoe UI', Helvetica, Arial, sans-serif;
   color: black;
-  background-color: white;
+  background-color: #f3ecfc;
 }
 
 
@@ -15,6 +16,30 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #f3ecfc;
+}
+
+.banner {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  height: auto;
+}
+
+.App h1 {
+  margin: 0.25 0 0.25rem;
+  font-size: 3.2rem;
+  color: #fff; /* light fill... */
+  -webkit-text-stroke: 1.5px #6c2bd9; /* ...with a dark purple outline */
+  text-shadow: 2px 2px 0 #571fb0, 0 6px 14px rgba(108, 43, 217, 0.3);
+  letter-spacing: 0.5px;
+}
+
+.App h2 {
+  margin: 0 0 1rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #6c2bd9;
 }
 
 /* auto-fill + minmax makes the grid responsive with no media queries */
