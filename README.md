@@ -4,7 +4,7 @@ Submitted by: **Mira Mohamad Ismail**
 
 This web app: **Superfan Central is a community board for the UAE's pop-culture and fandom scene. It showcases recurring and upcoming events — comic cons, gaming festivals, anime conventions, cosplay meetups, and trading-card shows — happening across the Emirates, so superfans can find their next gathering at a glance. Each card displays the event's poster, category, schedule, venue, and a link to learn more.**
 
-Time spent: **X** hours spent in total
+Time spent: **~4** hours spent in total
 
 ## Required Features
 
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Superfan Central Community Board Video Walkthrough]('https://i.imgur.com/aZjdKba.gif')
 
 GIF created with Snip & Sketch for Windows 11
 
