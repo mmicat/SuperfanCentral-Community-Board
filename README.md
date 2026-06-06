@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Superfan Central Community Board Video Walkthrough]('https://i.imgur.com/aZjdKba.gif')
+![Superfan Central Community Board Video Walkthrough](https://i.imgur.com/aZjdKba.gif)
 
 GIF created with Snip & Sketch for Windows 11
 
